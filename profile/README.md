@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./logo.png" alt="KineticSpigot" width="180" />
+  <img src="https://avatars.githubusercontent.com/u/334657657?v=4" alt="KineticSpigot" width="180" height="180" />
 
   # KineticSpigot
 
